@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Malithi Perera</h1>
 <h3 align="center">Undergraduate in Computer Science University of Colombo School Of Computing</h3>
 
-- 👨‍💻 All of my projects are available at [https://malithiperera.netlify.app/](https://malithiperera.netlify.app/)
+<!-- - 👨‍💻 All of my projects are available at [https://malithiperera.netlify.app/](https://malithiperera.netlify.app/) -->
 
 - 📫 How to reach me **malithiperera1998@gmail.com**
 
